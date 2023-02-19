@@ -1,0 +1,107 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar{
+    background-color: #1b8989;
+    padding: 10px;
+    top: 0px;
+}
+a{
+    font-family: auto;
+    color: wheat;
+    text-decoration: none;
+    font-size: 20px;
+}
+.navbar a{
+    margin: 10PX;
+}
+body{
+    margin: 0px;
+}
+.float_right{
+    float: right;
+}
+.btn{
+   padding: 5px 10px 5px 10px; 
+}
+.btn-primary{
+    background-color: rgb(45, 97, 218);
+}
+.btn-warning{
+    background-color: red;
+    color: black;
+}
+body{
+    margin: 0px;
+}
+.backgroundPic{
+    height: 300px;
+    width: 100%;
+    margin-top: 1px;
+}
+.row{
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.col-2{
+    width: 50%;
+}
+.col-3{
+    width: 33.33%;
+}
+.col-4{
+    width: 25%;
+}
+.mt-10px{
+    margin-top: 10px;
+}
+.card{
+    border: 1px solid rgb(202, 198, 198);
+    padding: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+.text-center{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.card a{
+    color: blue;
+}
+.text-primary{
+    color:blue ;
+}
+.footer{
+    background-color: gray;
+    padding: 5px;
+}
+.p-5{
+    padding: 30px;
+    background-color: aliceblue;
+}
+.p-1{
+    padding: 25px;
+    font-size: 20px;
+}
+.text-justify{
+    text-align: justify;
+}
+.p-2{
+    padding: 5px;
+}
+.border{
+    border: 2px solid gray;
+    margin: 5px;
+    background-color: aliceblue;
+}
+input, select{
+    width: 250px;
+    height: 25px;
+}
